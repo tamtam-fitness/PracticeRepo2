@@ -1,11 +1,9 @@
 package main
 
 import (
-	"fmt"
-
-	"example.com/me/hello/rumaNum"
+	"example.com/me/hello/methodAndInterface"
 )
 
 func main() {
-	fmt.Println(rumaNum.ConvertRumanToInt("MCLX"))
+	methodAndInterface.Main3()
 }
