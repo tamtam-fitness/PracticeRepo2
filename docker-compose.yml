@@ -4,4 +4,4 @@ services:
     build: . # ビルドに使用するDockerfileがあるディレクトリ指定
     tty: true # コンテナの起動永続化
     volumes:
-      - .:/go/src/app # マウントディレクトリ指定
+      - .:/go/src/ # マウントディレクトリ指定
