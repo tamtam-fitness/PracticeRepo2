@@ -1,9 +1,9 @@
 package main
 
 import (
-	"example.com/me/hello/methodAndInterface"
+	"example.com/me/hello/concurrency"
 )
 
 func main() {
-	methodAndInterface.Main3()
+	concurrency.Main1()
 }
