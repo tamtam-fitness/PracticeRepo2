@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+
+	"example.com/densuke/go_fintech/section8"
 	// "go_fintech/section5"
 	// "go_fintech/section5"
 	// "go_fintech/section5"
@@ -31,5 +33,14 @@ func main() {
 	// section5.Main6()
 	// section5.Main7()
 	// section5.Main8()
+	// section6.Main2()
+	// section7.Main1()
+	// section7.Main2()
+	// section7.Main3()
+	// section7.Main4()
+	// section7.Main5()
+	// section7.Main6()
+	// section8.Main1()
+	section8.Main2()
 
 }
