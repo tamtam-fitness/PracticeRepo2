@@ -1,18 +1,17 @@
 package main
 
 import (
-	"fmt"
-
-	"example.com/densuke/go_fintech/section8"
-	// "go_fintech/section5"
-	// "go_fintech/section5"
-	// "go_fintech/section5"
-	// "go_fintech/section4"
+	"example.com/densuke/go_fintech/section10"
 )
 
-func init() {
-	fmt.Println("start")
-}
+// "go_fintech/section5"
+// "go_fintech/section5"
+// "go_fintech/section5"
+// "go_fintech/section4"
+
+// func init() {
+// 	fmt.Println("start")
+// }
 
 func main() {
 	// section3.Main1()
@@ -41,6 +40,11 @@ func main() {
 	// section7.Main5()
 	// section7.Main6()
 	// section8.Main1()
-	section8.Main2()
+	// section8.Main2()
+	// section8.Main3()
+	// section9.Main1()
+	// section9.Main2()
+	// section9.Main1()
+	section10.Main1()
 
 }
