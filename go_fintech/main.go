@@ -1,7 +1,7 @@
 package main
 
 import (
-	"example.com/densuke/go_fintech/section10"
+	"example.com/densuke/go_fintech/section11"
 )
 
 // "go_fintech/section5"
@@ -45,6 +45,6 @@ func main() {
 	// section9.Main1()
 	// section9.Main2()
 	// section9.Main1()
-	section10.Main1()
+	section11.Main1()
 
 }
